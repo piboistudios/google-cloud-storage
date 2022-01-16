@@ -1,0 +1,3 @@
+package google_cloud.storage;
+
+typedef GenerateSignedPostPolicyV2Response = GetSignedPolicyResponse;
